@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"data_science_dev","Source":"./modules/tenant","Dir":"modules/tenant"},{"Key":"payments_prod","Source":"./modules/tenant","Dir":"modules/tenant"},{"Key":"storefront_public","Source":"./modules/tenant","Dir":"modules/tenant"}]}
