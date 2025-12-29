@@ -20,7 +20,7 @@ export default function Home() {
             Designing a scalable, secure, and compliant Kubernetes environment using Terraform and Infrastructure-as-Code principles.
           </p>
           <div className="flex gap-4 pt-4">
-            <Link href="https://github.com/sherwin/enterprise-platform-demo" className="px-6 py-2 bg-white text-black font-semibold rounded hover:bg-neutral-200 transition">
+            <Link href="https://github.com/sherwin25/enterprise-platform-demo" className="px-6 py-2 bg-white text-black font-semibold rounded hover:bg-neutral-200 transition">
               View Source Code
             </Link>
           </div>
